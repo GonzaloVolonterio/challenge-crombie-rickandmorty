@@ -8,7 +8,6 @@
 React
 React-router-dom
 Css
-
 ```
 ### Clone repo 🔧
 ```
