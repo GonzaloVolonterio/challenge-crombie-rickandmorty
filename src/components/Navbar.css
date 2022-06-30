@@ -1,0 +1,29 @@
+.navbar {
+  min-height: 100vh;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.navbar-container {
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.link {
+  margin-left: 20px;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.link h1 {
+  margin-left: 20px;
+  font-size: 20px;
+  font-weight: 800;
+  color: #000;
+}
